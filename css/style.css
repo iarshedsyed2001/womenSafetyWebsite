@@ -1,0 +1,147 @@
+body {
+  font-family: Montserrat-Black;
+  text-align: center;
+}
+
+#title {
+  background-color: #fe346e;
+  color: #ffffff;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+h1 {
+  font-family: Montserrat;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/*navbar section*/
+.navbar {
+  padding: 0 0 4rem;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: serif;
+}
+
+/*button download*/
+.download-button {
+  margin: 5% 2%;
+}
+
+/* title image*/
+.title-image {
+  width: 50%;
+}
+
+/* feature*/
+#features {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #ffffff;
+}
+
+.feature-box {
+
+  padding: 5%;
+}
+
+.icon {
+  padding-bottom: 1rem;
+  color: #fe346e;
+}
+
+.icon:hover {
+  color: red;
+}
+
+/*servise*/
+.saftey {
+  background-color: #dbdbdb;
+  margin-bottom: 0;
+}
+
+.content {
+  color: #000;
+  font-family: cursive;
+  margin-bottom: 10px;
+  margin-bottom: 10px;
+  font-weight: thin;
+}
+
+/*testimonials*/
+#testimonials {
+  background-color: #ff6363;
+  padding-top: 0;
+}
+
+.testimonial-text {
+  padding: 7% 10%;
+  padding-bottom: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #ffffff;
+  font-size: 2.5rem;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  width: 20%;
+  padding-bottom: 100px;
+  padding-top: 0;
+}
+
+/*press*/
+#press {
+  background-color: #ff6363;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 0 20px;
+}
+
+/*benefits*/
+#benefits {
+  padding: 8% 10%;
+}
+
+.benefit-column {
+  padding-top: 50px;
+}
+
+/*footer and call on action*/
+#cta {
+  background-color: #fe346e;
+  color: #fff;
+  padding-bottom: 2.5%;
+}
+
+.social-icon {
+  margin: 10px 10px;
+}
